@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/javascript-form-walidation-showcase/static/css/main.a6fb36dc.css",
+    "main.js": "/javascript-form-walidation-showcase/static/js/main.81086b1e.js",
+    "static/media/logo.svg": "/javascript-form-walidation-showcase/static/media/logo.6519cb4c6c8124523b463227ae17f0f5.svg",
+    "index.html": "/javascript-form-walidation-showcase/index.html",
+    "main.a6fb36dc.css.map": "/javascript-form-walidation-showcase/static/css/main.a6fb36dc.css.map",
+    "main.81086b1e.js.map": "/javascript-form-walidation-showcase/static/js/main.81086b1e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6fb36dc.css",
+    "static/js/main.81086b1e.js"
+  ]
+}
