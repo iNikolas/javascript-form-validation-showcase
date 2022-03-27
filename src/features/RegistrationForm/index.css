@@ -1,0 +1,60 @@
+.login-screen-flex-form-wrapper,
+.login-screen-input-form,
+.auth-options-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.full-screen-container {
+background-color: rgba(0,255,255, 0.05);
+}
+
+.login-screen-input-form {
+  gap: 3ch;
+}
+
+.logo-img-login-page {
+  height: 6ch;
+  margin-top: 4ch;
+}
+
+.login-btn-screen {
+  height: 6ch;
+  background-color: #337097 !important;
+}
+
+.login-screen-title {
+  font-size: 3ch;
+  letter-spacing: -1.5px;
+}
+
+.auth-options-container {
+  align-items: center;
+  gap: 1.5ch;
+  margin-bottom: 4.5ch;
+}
+
+.auth-options-container span {
+  display: block;
+  letter-spacing: -1.5px;
+  font-weight: bold;
+}
+
+.login-screen-flex-form-wrapper {
+  align-items: center;
+  gap: 4ch;
+}
+
+@media screen and (orientation: landscape) {
+  .logo-img-login-page {
+    margin-top: 5ch;
+  }
+
+  .login-screen-flex-form-wrapper {
+    gap: 5ch;
+  }
+
+  .auth-options-container {
+    margin-bottom: 6.5ch;
+  }
+}

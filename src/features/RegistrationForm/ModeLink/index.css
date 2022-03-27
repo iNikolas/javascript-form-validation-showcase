@@ -1,0 +1,12 @@
+.mode-link {
+  text-decoration: none;
+  background-color: transparent;
+  color: #337097;
+  letter-spacing: 0.46px;
+  font-weight: bold;
+  cursor: pointer;
+  border: none;
+  display: inline;
+  margin: 0;
+  padding: 0;
+}
